@@ -4,7 +4,7 @@
 
 ### Software Systems Student • AI & Full-Stack Developer • Java Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions+for+real-world+problems;Java+%7C+Python+%7C+Full+Stack+Development;Learning%2C+Building%2C+and+Preparing+for+Software+Engineering+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI-powered+solutions+for+real-world+problems;Java+%7C+Python+%7C+Full+Stack+Development;Preparing+for+Software+Engineering+Roles" />
 
 <br/>
 
@@ -227,7 +227,7 @@ A system-level project that reads process information from the Linux `/proc` fil
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/anjana-kannan-a39002379?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/anjana-kannan-a39002379">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
