@@ -231,7 +231,7 @@ A system-level project that reads process information from the Linux `/proc` fil
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a>
 
-<a href="mailto:anjanakannan.ak2006@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=anjanakannan.ak2006@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact">
 </a>
 
