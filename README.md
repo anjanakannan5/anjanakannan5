@@ -228,19 +228,18 @@ A system-level project that reads process information from the Linux `/proc` fil
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anjana-kannan-a39002379">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a>
 
 <a href="mailto:anjanakannan.ak2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact">
 </a>
 
 <a href="https://github.com/anjanakannan5">
-  <img src="https://img.shields.io/badge/GitHub-anjanakannan5-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-anjanakannan5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
 
 </div>
-
 ---
 
 <div align="center">
