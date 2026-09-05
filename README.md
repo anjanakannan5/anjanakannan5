@@ -2,117 +2,160 @@
 
 # Hi, I'm Anjana 👋
 
-### M.Sc. Software Systems Student | Learning & Building with Code
+### Software Systems Student • Builder • Always Learning
 
-I'm a Software Systems student interested in software development,
-AI, and building practical projects while learning new technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Java+%26+Data+Structures;Building+AI-powered+projects;Exploring+Full-Stack+Development;Turning+ideas+into+working+projects" />
+
+<br/>
+
+<a href="https://github.com/anjanakannan5">
+<img src="https://komarev.com/ghpvc/?username=anjanakannan5&label=Profile%20Views&color=58A6FF&style=flat" />
+</a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 A little about me
 
-🎓 M.Sc. Software Systems student at PSG College of Technology
+🎓 M.Sc. Software Systems student at **PSG College of Technology**
 
-💻 Currently learning **Java, DSA and software development**
+☕ Currently learning **Java, OOP & Data Structures**
 
-🤖 Exploring **AI, Agentic AI and Machine Learning**
+🤖 Exploring **AI, LLMs and Agentic AI**
 
-🌐 Building projects with **React, Node.js, Express and MongoDB**
+🌐 Building web projects with **React, Node.js & MongoDB**
 
-🔐 Interested in **AI, cybersecurity and system-level software**
+🔐 Interested in **AI, cybersecurity and system programming**
 
-🎯 Currently preparing for **software engineering placements**
-
----
-
-## 🛠️ Technologies
-
-### Languages
-
-Java • Python • JavaScript • C • C++ • SQL
-
-### Web Development
-
-React • Node.js • Express • HTML • CSS • Bootstrap • MongoDB
-
-### Tools & Libraries
-
-Git • GitHub • VS Code • Postman • NumPy • Pandas • Matplotlib
-
-### Currently Learning
-
-Java • Data Structures & Algorithms • Agentic AI
+💡 I like learning by **building projects and experimenting with ideas**
 
 ---
 
-## 🚀 Projects
-
-### 🤖 CodeMedic AI
-
-A Python-based AI debugging assistant that analyzes code errors and attempts automated code repair and validation.
-
-**Tech:** Python • AI/LLMs • SQLite
-
----
-
-### 🎮 PlayBuddy
-
-A web platform designed for children and parents with learning activities, events, AI chat, voice interaction and parent features.
-
-**Tech:** React • Node.js • Express • MongoDB • JWT
-
----
-
-### 🔐 Enterprise Network Firewall
-
-A cybersecurity project for network traffic monitoring and filtering with features such as VLANs, ACLs, NAT/PAT and network services.
-
-**Tech:** Python • Networking • Security
-
----
-
-### 🖥️ User Space Cloaking Engine
-
-A Linux-based system programming project that monitors processes through `/proc` and allows selected processes to be hidden in user space.
-
-**Tech:** C • Linux • Operating Systems
-
----
-
-## 📚 What I'm Currently Working On
-
-- Learning **Java and DSA**
-- Practicing coding problems
-- Improving my full-stack development skills
-- Working on **CodeMedic AI**
-- Exploring AI-based applications
-- Building projects for my portfolio
-
----
-
-## 🎯 2026 Goals
-
-- Strengthen DSA and problem-solving
-- Get more comfortable with Java
-- Complete and improve my projects
-- Learn more about AI and software development
-- Prepare for campus placements
-- Contribute more consistently to GitHub
-
----
-
-## 🤝 Connect With Me
+## 🛠️ Things I work with
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anjana-kannan-a39002379">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### Languages
 
-<a href="mailto:anjanakannan.ak2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,mysql" />
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,mongodb" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+
+</div>
+
+---
+
+# 🚀 Things I've Built
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 CodeMedic AI
+
+**AI-powered debugging & code repair**
+
+A project I'm currently developing that analyzes Python errors, identifies possible causes and attempts to repair the code using an AI-based workflow.
+
+**Python • LLMs • SQLite • Agentic AI**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 PlayBuddy
+
+**A safe learning & activity platform for children**
+
+A full-stack web application with child profiles, learning activities, events, parent features, AI chat and voice interaction.
+
+**React • Node.js • Express • MongoDB**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔐 Enterprise Network Firewall
+
+**Network monitoring & traffic filtering**
+
+A cybersecurity project exploring packet inspection, filtering rules, VLAN segmentation and network services.
+
+**Python • Networking • Security**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ User Space Cloaking Engine
+
+**Linux process monitoring project**
+
+A system programming project that explores Linux `/proc`, process monitoring and user-space process cloaking.
+
+**C • Linux • Operating Systems**
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/anjanakannan5?tab=repositories">
+
+<img src="https://img.shields.io/badge/✨_Explore_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 </div>
+
+---
+
+## 🌱 Currently learning
+
+<div align="center">
+
+| ☕ Java | 🧠 DSA | 🤖 AI | 🌐 Full Stack |
+|:---:|:---:|:---:|:---:|
+| OOP & Collections | Problem Solving | LLMs & Agents | React & APIs |
+
+</div>
+
+I'm currently spending most of my time improving my **Java and DSA skills** while continuing to build projects and explore AI.
+
+---
+
+## 📈 My GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anjanakannan5&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanakannan5&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🎯 2026
+
+```text
+☕ Get comfortable with Java
+🧠 Improve DSA & problem solving
+🤖 Finish CodeMedic AI
+🌐 Build more full-stack projects
+🚀 Keep experimenting with new ideas
+💼 Prepare for placements
