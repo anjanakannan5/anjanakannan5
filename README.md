@@ -146,18 +146,6 @@ I'm currently spending most of my time improving my **Java and DSA skills** whil
 
 ---
 
-# 📈 My GitHub
-
-<div align="center">
-
-<a href="https://github.com/anjanakannan5">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjanakannan5&show_icons=true&hide_border=true&theme=transparent" />
-</a>
-
-</div>
-
----
-
 # 🎯 2026 Goals
 
 <div align="center">
