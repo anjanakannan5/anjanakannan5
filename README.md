@@ -2,15 +2,10 @@
 
 # Hi, I'm Anjana 👋
 
-### Software Systems Student • AI & Full-Stack Developer • Java Enthusiast
+### M.Sc. Software Systems Student | Learning & Building with Code
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI-powered+solutions+for+real-world+problems;Java+%7C+Python+%7C+Full+Stack+Development;Preparing+for+Software+Engineering+Roles" />
-
-<br/>
-
-<a href="https://github.com/anjanakannan5">
-  <img src="https://komarev.com/ghpvc/?username=anjanakannan5&label=Profile%20Views&color=58A6FF&style=flat" />
-</a>
+I'm a Software Systems student interested in software development,
+AI, and building practical projects while learning new technologies.
 
 </div>
 
@@ -18,236 +13,106 @@
 
 ## 👩‍💻 About Me
 
-🎓 **M.Sc. Software Systems Student** passionate about building intelligent and impactful software solutions.
+🎓 M.Sc. Software Systems student at PSG College of Technology
 
-🤖 Currently exploring **Artificial Intelligence, Agentic AI and Machine Learning**
+💻 Currently learning **Java, DSA and software development**
 
-☕ Strengthening my skills in **Java, DSA and Software Development**
+🤖 Exploring **AI, Agentic AI and Machine Learning**
 
-🌐 Building full-stack applications using **React, Node.js, Express and MongoDB**
+🌐 Building projects with **React, Node.js, Express and MongoDB**
 
-🚀 Interested in **AI Systems, Full-Stack Development, Cybersecurity and Enterprise Software**
+🔐 Interested in **AI, cybersecurity and system-level software**
 
-🎯 Currently preparing for **Software Engineering Placements**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,sql" />
-</p>
-
-### 🌐 Full-Stack Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,mongodb" />
-</p>
-
-### 🤖 AI, Data & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+🎯 Currently preparing for **software engineering placements**
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Technologies
 
-<table>
-<tr>
-<td width="50%">
+### Languages
 
-## 🤖 CodeMedic AI
+Java • Python • JavaScript • C • C++ • SQL
 
-### Agentic Multi-Agent System for Autonomous Code Repair & Validation
+### Web Development
 
-An intelligent system that executes code in a sandbox, detects errors, analyzes the root cause using AI agents, generates corrected code and validates the repair.
+React • Node.js • Express • HTML • CSS • Bootstrap • MongoDB
 
-**Tech:** Python • AI/LLMs • SQLite • Agentic AI
+### Tools & Libraries
 
-🔹 Error Analysis Agent
-🔹 Repair Agent
-🔹 Validation Agent
-🔹 Sandboxed Code Execution
+Git • GitHub • VS Code • Postman • NumPy • Pandas • Matplotlib
 
-</td>
+### Currently Learning
 
-<td width="50%">
+Java • Data Structures & Algorithms • Agentic AI
 
-## 🎮 PlayBuddy
+---
 
-### Secure AI-Powered Platform for Children
+## 🚀 Projects
 
-A secure platform designed for children and parents featuring age-based events, learning activities, AI chat, voice interaction and parent communication.
+### 🤖 CodeMedic AI
+
+A Python-based AI debugging assistant that analyzes code errors and attempts automated code repair and validation.
+
+**Tech:** Python • AI/LLMs • SQLite
+
+---
+
+### 🎮 PlayBuddy
+
+A web platform designed for children and parents with learning activities, events, AI chat, voice interaction and parent features.
 
 **Tech:** React • Node.js • Express • MongoDB • JWT
 
-🔹 Parent-only Registration
-🔹 Child Profiles
-🔹 AI Chat
-🔹 Voice Learning Game
-🔹 Event Discovery & RSVP
+---
 
-</td>
-</tr>
+### 🔐 Enterprise Network Firewall
 
-<tr>
-<td width="50%">
+A cybersecurity project for network traffic monitoring and filtering with features such as VLANs, ACLs, NAT/PAT and network services.
 
-## 🔐 Enterprise Network Firewall
+**Tech:** Python • Networking • Security
 
-### Network Monitoring & Traffic Filtering System
+---
 
-A cybersecurity project designed to monitor network traffic, inspect packets, apply filtering rules and detect unauthorized access.
+### 🖥️ User Space Cloaking Engine
 
-**Tech:** C/C++ • Networking • Security
-
-🔹 Packet Inspection
-🔹 Rule-Based Filtering
-🔹 Traffic Monitoring
-🔹 Unauthorized Access Detection
-
-</td>
-
-<td width="50%">
-
-## 🖥️ User Space Cloaking Engine
-
-### Linux-Based Process Monitoring & Cloaking Tool
-
-A system-level project that reads process information from the Linux `/proc` file system and selectively hides processes without modifying the kernel.
+A Linux-based system programming project that monitors processes through `/proc` and allows selected processes to be hidden in user space.
 
 **Tech:** C • Linux • Operating Systems
 
-🔹 Process Monitoring
-🔹 PID/Name-Based Cloaking
-🔹 Admin Mode
-🔹 Activity Logging
+---
 
-</td>
-</tr>
-</table>
+## 📚 What I'm Currently Working On
 
-<div align="center">
-
-### 🔗 Explore my repositories
-
-<a href="https://github.com/anjanakannan5?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+- Learning **Java and DSA**
+- Practicing coding problems
+- Improving my full-stack development skills
+- Working on **CodeMedic AI**
+- Exploring AI-based applications
+- Building projects for my portfolio
 
 ---
 
-# 📚 Currently Building & Learning
+## 🎯 2026 Goals
 
-```text
-📂 My Developer Journey
-
-├── 🧠 Data Structures & Algorithms
-│   ├── Stack
-│   ├── Queue
-│   ├── Heap
-│   ├── Trees
-│   └── Dynamic Programming
-│
-├── ☕ Java Development
-│   ├── OOP
-│   ├── Collections
-│   ├── Multithreading
-│   └── Desktop Applications
-│
-├── 🤖 Artificial Intelligence
-│   ├── Machine Learning
-│   ├── Agentic AI
-│   └── Autonomous Code Repair
-│
-└── 🌐 Full-Stack Development
-    ├── React
-    ├── Node.js
-    ├── MongoDB
-    └── REST APIs
-```
+- Strengthen DSA and problem-solving
+- Get more comfortable with Java
+- Complete and improve my projects
+- Learn more about AI and software development
+- Prepare for campus placements
+- Contribute more consistently to GitHub
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anjanakannan5&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanakannan5&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anjanakannan5&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# 🧩 My Coding Focus
-
-<div align="center">
-
-|      🧠 DSA     |        ☕ Java        |        🤖 AI        |     🌐 Full Stack     |
-| :-------------: | :------------------: | :-----------------: | :-------------------: |
-| Problem Solving | Software Development | Intelligent Systems | Scalable Applications |
-
-</div>
-
----
-
-# 🌱 2026 Goals
-
-* 🧠 Strengthen **Data Structures & Algorithms**
-* ☕ Build advanced **Java applications**
-* 🤖 Complete and enhance **CodeMedic AI**
-* 🚀 Build more **real-world, resume-worthy projects**
-* 🌐 Improve full-stack development skills
-* 💼 Secure a **Software Engineering role**
-* 📈 Contribute to GitHub consistently
-
----
-
-# 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anjana-kannan-a39002379">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=anjanakannan.ak2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact">
+<a href="mailto:anjanakannan.ak2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://github.com/anjanakannan5">
-  <img src="https://img.shields.io/badge/GitHub-anjanakannan5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-</a>
-
-</div>
----
-
-<div align="center">
-
-### ⭐ "Building today for the problems of tomorrow."
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 
 </div>
