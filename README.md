@@ -2,21 +2,19 @@
 
 # Hi, I'm Anjana 👋
 
-### Software Systems Student • Builder • Always Learning
+### M.Sc. Software Systems Student • Builder • Always Learning
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Java+%26+Data+Structures;Building+AI-powered+projects;Exploring+Full-Stack+Development;Turning+ideas+into+working+projects" />
 
 <br/>
 
-<a href="https://github.com/anjanakannan5">
 <img src="https://komarev.com/ghpvc/?username=anjanakannan5&label=Profile%20Views&color=58A6FF&style=flat" />
-</a>
 
 </div>
 
 ---
 
-## 👩‍💻 A little about me
+## 👩‍💻 About Me
 
 🎓 M.Sc. Software Systems student at **PSG College of Technology**
 
@@ -30,21 +28,27 @@
 
 💡 I like learning by **building projects and experimenting with ideas**
 
+🎯 Currently preparing for **software engineering placements**
+
 ---
 
-## 🛠️ Things I work with
+## 🛠️ Technologies
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,mysql" />
 
-### Web
+<br/><br/>
+
+### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,mongodb" />
 
-### Tools
+<br/><br/>
+
+### 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 
@@ -65,7 +69,7 @@
 
 A project I'm currently developing that analyzes Python errors, identifies possible causes and attempts to repair the code using an AI-based workflow.
 
-**Python • LLMs • SQLite • Agentic AI**
+**Tech:** Python • LLMs • SQLite • Agentic AI
 
 </td>
 
@@ -75,9 +79,9 @@ A project I'm currently developing that analyzes Python errors, identifies possi
 
 **A safe learning & activity platform for children**
 
-A full-stack web application with child profiles, learning activities, events, parent features, AI chat and voice interaction.
+A full-stack web application with child profiles, learning activities, events, AI chat, voice interaction and parent features.
 
-**React • Node.js • Express • MongoDB**
+**Tech:** React • Node.js • Express • MongoDB • JWT
 
 </td>
 
@@ -93,7 +97,7 @@ A full-stack web application with child profiles, learning activities, events, p
 
 A cybersecurity project exploring packet inspection, filtering rules, VLAN segmentation and network services.
 
-**Python • Networking • Security**
+**Tech:** Python • Networking • Security
 
 </td>
 
@@ -105,12 +109,14 @@ A cybersecurity project exploring packet inspection, filtering rules, VLAN segme
 
 A system programming project that explores Linux `/proc`, process monitoring and user-space process cloaking.
 
-**C • Linux • Operating Systems**
+**Tech:** C • Linux • Operating Systems
 
 </td>
 
 </tr>
 </table>
+
+<br/>
 
 <div align="center">
 
@@ -124,38 +130,41 @@ A system programming project that explores Linux `/proc`, process monitoring and
 
 ---
 
-## 🌱 Currently learning
+# 🌱 Currently Learning
 
 <div align="center">
 
 | ☕ Java | 🧠 DSA | 🤖 AI | 🌐 Full Stack |
-|:---:|:---:|:---:|:---:|
+| :---: | :---: | :---: | :---: |
 | OOP & Collections | Problem Solving | LLMs & Agents | React & APIs |
 
 </div>
+
+<br/>
 
 I'm currently spending most of my time improving my **Java and DSA skills** while continuing to build projects and explore AI.
 
 ---
 
-## 📈 My GitHub
+# 📈 My GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anjanakannan5&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanakannan5&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjanakannan5&theme=github-compact&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## 🎯 2026
+# 🎯 2026 Goals
+
+<div align="center">
 
 ```text
 ☕ Get comfortable with Java
 🧠 Improve DSA & problem solving
-🤖 Finish CodeMedic AI
+🤖 Finish and improve CodeMedic AI
 🌐 Build more full-stack projects
 🚀 Keep experimenting with new ideas
+📚 Learn technologies through projects
 💼 Prepare for placements
