@@ -150,7 +150,9 @@ I'm currently spending most of my time improving my **Java and DSA skills** whil
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjanakannan5&theme=github-compact&hide_border=true" width="95%"/>
+<a href="https://github.com/anjanakannan5">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjanakannan5&show_icons=true&hide_border=true&theme=transparent" />
+</a>
 
 </div>
 
