@@ -146,15 +146,3 @@ I'm currently spending most of my time improving my **Java and DSA skills** whil
 
 ---
 
-# 🎯 2026 Goals
-
-<div align="center">
-
-```text
-☕ Get comfortable with Java
-🧠 Improve DSA & problem solving
-🤖 Finish and improve CodeMedic AI
-🌐 Build more full-stack projects
-🚀 Keep experimenting with new ideas
-📚 Learn technologies through projects
-💼 Prepare for placements
