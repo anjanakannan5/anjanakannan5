@@ -1,0 +1,76 @@
+name: Update guestbook
+
+on:
+  issues:
+    types: [opened, edited, closed, reopened, deleted]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: read
+
+concurrency:
+  group: guestbook
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild guestbook table in README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const { owner, repo } = context.repo;
+
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner, repo, state: 'open', per_page: 100
+            });
+
+            const entries = issues
+              .filter(i => !i.pull_request && i.user.type !== 'Bot' && /^guestbook/i.test(i.title))
+              .slice(0, 8);
+
+            // Strip HTML / markdown so visitors can't break the README layout.
+            const clean = s => (s || '')
+              .replace(/<[^>]*>/g, '')
+              .replace(/[|`\[\]*_#>]+/g, ' ')
+              .replace(/\s+/g, ' ')
+              .trim()
+              .slice(0, 140);
+
+            let rows;
+            if (entries.length === 0) {
+              rows = '| 👻 | _Nobody yet_ | Be the first to sign! | — |';
+            } else {
+              rows = entries.map(i => {
+                const body = (i.body || '')
+                  .split('\n')
+                  .filter(l => !l.trim().startsWith('###') && l.trim() !== '_No response_')
+                  .join(' ');
+                const msg = clean(body) || '👋';
+                const login = i.user.login;
+                const date = new Date(i.created_at).toISOString().slice(0, 10);
+                return `| <img src="https://github.com/${login}.png?size=48" width="36" alt="" /> | [@${login}](https://github.com/${login}) | ${msg} | ${date} |`;
+              }).join('\n');
+            }
+
+            const block = `<!--GUESTBOOK:START-->\n| | Visitor | Message | Date |\n|---|---|---|---|\n${rows}\n<!--GUESTBOOK:END-->`;
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const re = /<!--GUESTBOOK:START-->[\s\S]*?<!--GUESTBOOK:END-->/;
+            if (!re.test(readme)) core.setFailed('Guestbook markers not found in README.md');
+            fs.writeFileSync('README.md', readme.replace(re, () => block));
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update guestbook"
+            git pull --rebase
+            git push
+          fi
