@@ -1,166 +1,226 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=ANJANA%20KANNAN&fontSize=48&fontColor=FFFFFF&color=0:080B16,50:171B35,100:34205A&stroke=8B5CF6&strokeWidth=1&animation=fadeIn&desc=SOFTWARE%20SYSTEMS%20%2F%2F%20AI%20%2F%2F%20FULL%20STACK&descSize=14&descAlignY=72" width="100%" />
-
-<br/>
-
-<a href="https://github.com/anjanakannan5">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+things+that+solve+real+problems;Exploring+AI%2C+systems+and+full-stack+development;Learning+Java+and+strengthening+DSA;Turning+ideas+into+working+projects" alt="Developer introduction" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:080B16,45:17152E,100:312E81&text=ANJANA%20KANNAN&fontSize=48&fontColor=F8FAFC&fontAlignY=42&desc=Curious%20mind.%20Creative%20builder.%20Software%20student.&descSize=15&descAlignY=64&animation=fadeIn" width="100%" alt="Anjana Kannan — Midnight Dark banner" />
 
 <br/>
 
-<a href="https://github.com/anjanakannan5?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/anjana-kannan-a39002379"><img src="https://img.shields.io/badge/LINKEDIN-Connect-252A40?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
-<a href="mailto:anjanakannan.ak2006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-252A40?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Exploring+AI+%26+intelligent+systems;Building+web+experiences;Learning+Java+%26+DSA;Turning+ideas+into+real+projects" alt="What I'm exploring" />
+
+<br/><br/>
+
+<a href="https://github.com/anjanakannan5?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/anjana-kannan-a39002379"><img src="https://img.shields.io/badge/LET'S%20CONNECT-17152E?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
 
 </div>
 
----
+<br/>
 
-### `01 / ABOUT`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6" width="100%" />
 
-I'm an **M.Sc. Software Systems student at PSG College of Technology**, interested in building software that combines practical engineering with creative problem-solving.
-
-- `AI / LLMs` — experimenting with AI-powered applications and code analysis
-- `Full stack` — building applications with React, Node.js and databases
-- `Systems` — exploring Linux, networking and low-level concepts
-- `Java + DSA` — strengthening programming fundamentals and problem-solving
-
-I learn best by building, testing, breaking things, and figuring out how to make them better.
-
-### `02 / TECH STACK`
+<h2 align="center">✳ &nbsp; A LITTLE ABOUT ME</h2>
 
 <div align="center">
 
-**LANGUAGES**
+I'm an **M.Sc. Software Systems student at PSG College of Technology**, interested in the intersection of software engineering, AI, and systems.
 
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp&theme=dark" />
-
-<br/><br/>
-
-**WEB & DATABASES**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,mongodb,mysql&theme=dark" />
-
-<br/><br/>
-
-**TOOLS & ENVIRONMENT**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+I enjoy taking an idea, figuring out how it works, and building something real from it.
 
 </div>
 
----
-
-### `03 / SELECTED PROJECTS`
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/anjanakannan5/CodeMedicAI">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=CodeMedic%20AI&fontSize=27&fontColor=FFFFFF&color=0:15172B,100:4338CA" width="100%" alt="CodeMedic AI" />
-</a>
+<h3>⌘ &nbsp; What interests me</h3>
 
-**AI-assisted debugging and code repair**
-
-A Python project that executes code, analyzes errors, generates root-cause explanations, and attempts AI-assisted repairs with validation.
-
-`Python` `LLMs` `Ollama` `SQLite`
-
-[Explore repository →](https://github.com/anjanakannan5/CodeMedicAI)
+- Artificial intelligence & LLMs
+- Full-stack application development
+- Cybersecurity & networking
+- Linux and systems programming
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://play-buddy-lilac.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=PlayBuddy&fontSize=27&fontColor=FFFFFF&color=0:102B36,100:0F766E" width="100%" alt="PlayBuddy" />
-</a>
+<h3>◈ &nbsp; What I'm working on</h3>
 
-**Learning and activities for children**
+- Building AI-powered applications
+- Improving Java and DSA fundamentals
+- Exploring new technologies through projects
+- Becoming a better problem solver
 
-A full-stack platform featuring child profiles, learning activities, AI chat, and parent-focused features.
+</td>
+</tr>
+</table>
 
-`React` `Node.js` `MongoDB` `JWT`
+<br/>
 
-[Live demo →](https://play-buddy-lilac.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6" width="100%" />
+
+<h2 align="center">⌘ &nbsp; MY TOOLKIT</h2>
+
+<div align="center">
+
+<p><b>LANGUAGES</b></p>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp&theme=dark" alt="Python, Java, JavaScript, C and C++" />
+
+<br/><br/>
+
+<p><b>WEB & DATABASES</b></p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,mongodb,mysql&theme=dark" alt="Web and database technologies" />
+
+<br/><br/>
+
+<p><b>TOOLS & ENVIRONMENTS</b></p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" alt="Development tools" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6" width="100%" />
+
+<h2 align="center">✧ &nbsp; SELECTED WORK</h2>
+
+<p align="center">A few ideas I've been turning into working software.</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 &nbsp; / &nbsp; CodeMedic AI</h3>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20DEVELOPER%20TOOLS-312E81?style=flat-square" alt="AI developer tools" />
+
+<p>An AI-assisted Python debugging project that analyzes execution errors, generates root-cause explanations, and attempts code repairs with validation.</p>
+
+<p><code>Python</code> <code>Ollama</code> <code>LLMs</code> <code>SQLite</code></p>
+
+<a href="https://github.com/anjanakannan5/CodeMedicAI">VIEW PROJECT ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02 &nbsp; / &nbsp; PlayBuddy</h3>
+
+<img src="https://img.shields.io/badge/FULL%20STACK%20%2F%20EDTECH-115E59?style=flat-square" alt="Full-stack edtech" />
+
+<p>A child-focused learning and activity platform with learning features, child profiles, AI chat, and parent-oriented functionality.</p>
+
+<p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>JWT</code></p>
+
+<a href="https://play-buddy-lilac.vercel.app/">OPEN LIVE DEMO ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Nausheen2206/Enterprise-Network-Firewall">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=Network%20Firewall&fontSize=24&fontColor=FFFFFF&color=0:291528,100:9D174D" width="100%" alt="Enterprise Network Firewall" />
-</a>
+<h3>03 &nbsp; / &nbsp; Enterprise Network Firewall</h3>
 
-**Network security and traffic filtering**
+<img src="https://img.shields.io/badge/NETWORKING%20%2F%20SECURITY-9D174D?style=flat-square" alt="Networking and security" />
 
-A team project exploring firewall rules, network segmentation, traffic filtering, and network services.
+<p>A team project exploring network segmentation, traffic filtering, firewall rules, and network services.</p>
 
-`Python` `Networking` `Cybersecurity`
+<p><code>Python</code> <code>Networking</code> <code>Cybersecurity</code></p>
 
-[Explore repository →](https://github.com/Nausheen2206/Enterprise-Network-Firewall)
+<a href="https://github.com/Nausheen2206/Enterprise-Network-Firewall">VIEW PROJECT ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/anjanakannan5">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=Linux%20Systems&fontSize=26&fontColor=FFFFFF&color=0:1F2937,100:475569" width="100%" alt="Linux systems programming" />
-</a>
+<h3>04 &nbsp; / &nbsp; User Space Cloaking Engine</h3>
 
-**User Space Cloaking Engine**
+<img src="https://img.shields.io/badge/SYSTEMS%20%2F%20LINUX-334155?style=flat-square" alt="Systems programming" />
 
-A systems programming project exploring Linux `/proc` and process-related operating-system concepts.
+<p>A system programming project exploring Linux process information through <code>/proc</code> and operating-system concepts.</p>
 
-`C` `Linux` `Operating Systems`
+<p><code>C</code> <code>Linux</code> <code>OS Concepts</code></p>
 
-[Find my repositories →](https://github.com/anjanakannan5?tab=repositories)
+<a href="https://github.com/anjanakannan5?tab=repositories">FIND REPOSITORY ↗</a>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
-<a href="https://github.com/anjanakannan5?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=A78BFA" />
-</a>
+<a href="https://github.com/anjanakannan5?tab=repositories"><img src="https://img.shields.io/badge/MORE%20PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=A78BFA" alt="More projects" /></a>
 
 </div>
 
----
+<br/>
 
-### `04 / CURRENT FOCUS`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6" width="100%" />
+
+<h2 align="center">⟡ &nbsp; CURRENTLY IN PROGRESS</h2>
 
 <div align="center">
 
-| AREA | WORKING ON |
-|:---|:---|
-| `01` | Java, OOP and data structures |
-| `02` | DSA practice and problem-solving |
-| `03` | AI applications and LLM workflows |
-| `04` | Building, testing and documenting projects |
+<table>
+<tr>
+<td align="center" width="25%">
+
+**JAVA**
+
+<sub>OOP & Collections</sub>
+
+</td>
+<td align="center" width="25%">
+
+**DSA**
+
+<sub>Problem solving</sub>
+
+</td>
+<td align="center" width="25%">
+
+**AI**
+
+<sub>LLMs & agents</sub>
+
+</td>
+<td align="center" width="25%">
+
+**FULL STACK**
+
+<sub>React & APIs</sub>
+
+</td>
+</tr>
+</table>
+
+I'm focused on strengthening my fundamentals while building projects that help me learn beyond the classroom.
 
 </div>
 
-### `05 / GITHUB ACTIVITY`
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6" width="100%" />
+
+<h2 align="center">☾ &nbsp; FIND ME HERE</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjanakannan5&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Building%20in%20Public" width="100%" alt="GitHub contribution activity graph" />
+<a href="https://github.com/anjanakannan5"><img src="https://img.shields.io/badge/GitHub-anjanakannan5-17152E?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 
-</div>
+<a href="https://www.linkedin.com/in/anjana-kannan-a39002379"><img src="https://img.shields.io/badge/LinkedIn-Connect-17152E?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
 
----
+<a href="mailto:anjanakannan.ak2006@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-17152E?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
 
-<div align="center">
+<br/><br/>
 
-### `BUILD • LEARN • ITERATE`
+<i>Still figuring things out. Building things along the way.</i>
 
-*Still learning. Still building. Always curious.*
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:34205A,50:171B35,100:080B16&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:312E81,55:17152E,100:080B16&section=footer" width="100%" alt="Midnight violet footer" />
 
 </div>
