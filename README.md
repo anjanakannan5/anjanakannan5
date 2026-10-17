@@ -1,148 +1,166 @@
-<div align="center">
+ <div align="center">
 
-# Hi, I'm Anjana 👋
-
-### M.Sc. Software Systems Student • Builder • Always Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Java+%26+Data+Structures;Building+AI-powered+projects;Exploring+Full-Stack+Development;Turning+ideas+into+working+projects" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=ANJANA%20KANNAN&fontSize=48&fontColor=FFFFFF&color=0:080B16,50:171B35,100:34205A&stroke=8B5CF6&strokeWidth=1&animation=fadeIn&desc=SOFTWARE%20SYSTEMS%20%2F%2F%20AI%20%2F%2F%20FULL%20STACK&descSize=14&descAlignY=72" width="100%" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=anjanakannan5&label=Profile%20Views&color=58A6FF&style=flat" />
+<a href="https://github.com/anjanakannan5">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+things+that+solve+real+problems;Exploring+AI%2C+systems+and+full-stack+development;Learning+Java+and+strengthening+DSA;Turning+ideas+into+working+projects" alt="Developer introduction" />
+</a>
+
+<br/>
+
+<a href="https://github.com/anjanakannan5?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anjana-kannan-a39002379"><img src="https://img.shields.io/badge/LINKEDIN-Connect-252A40?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="mailto:anjanakannan.ak2006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-252A40?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+### `01 / ABOUT`
 
-🎓 M.Sc. Software Systems student at **PSG College of Technology**
+I'm an **M.Sc. Software Systems student at PSG College of Technology**, interested in building software that combines practical engineering with creative problem-solving.
 
-☕ Currently learning **Java, OOP & Data Structures**
+- `AI / LLMs` — experimenting with AI-powered applications and code analysis
+- `Full stack` — building applications with React, Node.js and databases
+- `Systems` — exploring Linux, networking and low-level concepts
+- `Java + DSA` — strengthening programming fundamentals and problem-solving
 
-🤖 Exploring **AI, LLMs and Agentic AI**
+I learn best by building, testing, breaking things, and figuring out how to make them better.
 
-🌐 Building web projects with **React, Node.js & MongoDB**
-
-🔐 Interested in **AI, cybersecurity and system programming**
-
-💡 I like learning by **building projects and experimenting with ideas**
-
-🎯 Currently preparing for **software engineering placements**
-
----
-
-## 🛠️ Technologies
+### `02 / TECH STACK`
 
 <div align="center">
 
-### 💻 Languages
+**LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,mysql" />
-
-<br/><br/>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp&theme=dark" />
 
 <br/><br/>
 
-### 🔧 Tools
+**WEB & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,mongodb,mysql&theme=dark" />
+
+<br/><br/>
+
+**TOOLS & ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 
 </div>
 
 ---
 
-# 🚀 Things I've Built
+### `03 / SELECTED PROJECTS`
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🤖 CodeMedic AI
+<a href="https://github.com/anjanakannan5/CodeMedicAI">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=CodeMedic%20AI&fontSize=27&fontColor=FFFFFF&color=0:15172B,100:4338CA" width="100%" alt="CodeMedic AI" />
+</a>
 
-**AI-powered debugging & code repair**
+**AI-assisted debugging and code repair**
 
-A project I'm currently developing that analyzes Python errors, identifies possible causes and attempts to repair the code using an AI-based workflow.
+A Python project that executes code, analyzes errors, generates root-cause explanations, and attempts AI-assisted repairs with validation.
 
-**Tech:** Python • LLMs • SQLite • Agentic AI
+`Python` `LLMs` `Ollama` `SQLite`
+
+[Explore repository →](https://github.com/anjanakannan5/CodeMedicAI)
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🎮 PlayBuddy
+<a href="https://play-buddy-lilac.vercel.app/">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=PlayBuddy&fontSize=27&fontColor=FFFFFF&color=0:102B36,100:0F766E" width="100%" alt="PlayBuddy" />
+</a>
 
-**A safe learning & activity platform for children**
+**Learning and activities for children**
 
-A full-stack web application with child profiles, learning activities, events, AI chat, voice interaction and parent features.
+A full-stack platform featuring child profiles, learning activities, AI chat, and parent-focused features.
 
-**Tech:** React • Node.js • Express • MongoDB • JWT
+`React` `Node.js` `MongoDB` `JWT`
+
+[Live demo →](https://play-buddy-lilac.vercel.app/)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 🔐 Enterprise Network Firewall
+<a href="https://github.com/Nausheen2206/Enterprise-Network-Firewall">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=Network%20Firewall&fontSize=24&fontColor=FFFFFF&color=0:291528,100:9D174D" width="100%" alt="Enterprise Network Firewall" />
+</a>
 
-**Network monitoring & traffic filtering**
+**Network security and traffic filtering**
 
-A cybersecurity project exploring packet inspection, filtering rules, VLAN segmentation and network services.
+A team project exploring firewall rules, network segmentation, traffic filtering, and network services.
 
-**Tech:** Python • Networking • Security
+`Python` `Networking` `Cybersecurity`
+
+[Explore repository →](https://github.com/Nausheen2206/Enterprise-Network-Firewall)
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🖥️ User Space Cloaking Engine
+<a href="https://github.com/anjanakannan5">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=Linux%20Systems&fontSize=26&fontColor=FFFFFF&color=0:1F2937,100:475569" width="100%" alt="Linux systems programming" />
+</a>
 
-**Linux process monitoring project**
+**User Space Cloaking Engine**
 
-A system programming project that explores Linux `/proc`, process monitoring and user-space process cloaking.
+A systems programming project exploring Linux `/proc` and process-related operating-system concepts.
 
-**Tech:** C • Linux • Operating Systems
+`C` `Linux` `Operating Systems`
+
+[Find my repositories →](https://github.com/anjanakannan5?tab=repositories)
 
 </td>
-
 </tr>
 </table>
-
-<br/>
 
 <div align="center">
 
 <a href="https://github.com/anjanakannan5?tab=repositories">
-
-<img src="https://img.shields.io/badge/✨_Explore_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=A78BFA" />
 </a>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
+### `04 / CURRENT FOCUS`
 
 <div align="center">
 
-| ☕ Java | 🧠 DSA | 🤖 AI | 🌐 Full Stack |
-| :---: | :---: | :---: | :---: |
-| OOP & Collections | Problem Solving | LLMs & Agents | React & APIs |
+| AREA | WORKING ON |
+|:---|:---|
+| `01` | Java, OOP and data structures |
+| `02` | DSA practice and problem-solving |
+| `03` | AI applications and LLM workflows |
+| `04` | Building, testing and documenting projects |
 
 </div>
 
-<br/>
+### `05 / GITHUB ACTIVITY`
 
-I'm currently spending most of my time improving my **Java and DSA skills** while continuing to build projects and explore AI.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjanakannan5&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Building%20in%20Public" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
 
 ---
 
+<div align="center">
+
+### `BUILD • LEARN • ITERATE`
+
+*Still learning. Still building. Always curious.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:34205A,50:171B35,100:080B16&section=footer" width="100%" />
+
+</div>
